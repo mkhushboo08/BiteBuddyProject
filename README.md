@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,6 @@ Currently, two official plugins are available:
 =======
 # BiteBuddyCG
 >>>>>>> 5dfc76e99450283e7bce4b8fe7efd70ca4956dff
+=======
+# BiteBuddyProject
+>>>>>>> c76c906b68dc9c3540c2dfd04b64a7c96c0166a3
